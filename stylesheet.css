@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Guppy Logo';
+    src: url('GuppyLogo-Regular.eot');
+    src: url('GuppyLogo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GuppyLogo-Regular.woff2') format('woff2'),
+        url('GuppyLogo-Regular.woff') format('woff'),
+        url('GuppyLogo-Regular.svg#GuppyLogo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
