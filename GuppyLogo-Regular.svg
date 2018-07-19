@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Thu Jul 19 06:21:48 2018
+ By Aleksey,,,
+</metadata>
+<defs>
+<font id="GuppyLogo-Regular" horiz-adv-x="250" >
+  <font-face 
+    font-family="Guppy Logo"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    cap-height="699"
+    bbox="33 -96 844 699"
+    underline-thickness="50"
+    underline-position="-200"
+    unicode-range="U+000D-00A0"
+  />
+<missing-glyph horiz-adv-x="364" 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="364" 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="333" 
+ />
+    <glyph glyph-name="CR" unicode="&#xd;" 
+ />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="A" unicode="A" horiz-adv-x="894" 
+d="M392 105q46 32 47 32t0 -1q-68 -122 -116 -164q-28 -23 -54 -23q-7 0 -17 4q-8 4 -8 12q0 33 148 140zM445 455q22 23 32 23q23 0 38 -19.5t15 -45.5q0 -17 -7 -31q-14 -30 -50 -58t-60 -28q-12 0 -15.5 4t-3.5 19q0 2 0.5 7.5t0.5 9.5q3 70 50 119zM405 698q1 0 8 0.5
+t12 0.5q4 0 15 -0.5t17 -0.5q82 -1 155 -35q107 -50 169.5 -147.5t62.5 -213.5v-20q-7 -138 -97.5 -242t-228.5 -131q-25 -5 -73 -5q-38 0 -64 4l-19 3l24 25q62 64 132 201q35 66 39 69q1 1 7.5 4.5t18 10.5t20.5 12q55 33 98 68.5t55 57.5q15 26 15 52v6q-2 8 -7.5 20
+t-8.5 12l-152 -112q-1 1 6 18q14 34 14 66q0 58 -48 108q-17 18 -31.5 24.5t-38.5 8.5l-24 1l-9 -9q-9 -9 -10 -9q-2 0 -12 7q-12 8 -28 7q-64 -2 -104.5 -59.5t-47.5 -133.5q-1 -8 -1 -21q0 -37 29 -69q40 -43 105 -43q15 0 29 3q4 1 7.5 1.5t4.5 -0.5q0 -1 -81 -42
+q-86 -44 -129 -71.5t-74 -58.5q-19 -19 -21 -17q-4 4 -17 22q-47 66 -66 150q-6 26 -6 80q0 49 6 77q27 130 124 218.5t225 102.5z" />
+    <glyph glyph-name="nbsp" unicode="&#xa0;" 
+ />
+  </font>
+</defs></svg>
